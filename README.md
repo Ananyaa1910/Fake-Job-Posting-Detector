@@ -50,7 +50,7 @@ Among the models tested, XGBoost gave the best overall performance.
 
 Clone the repository:
 
-git clone https://github.com/yourusername/fake-job-detector.git
+git clone https://github.com/Ananyaa1910/fake-job-detector.git
 
 Install dependencies:
 
@@ -79,4 +79,4 @@ fake-job-detector/
 
 ## Author
 
-Ananya Srivastava
+Ananyaa Srivastava
