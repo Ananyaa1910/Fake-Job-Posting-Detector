@@ -50,7 +50,7 @@ Among the models tested, XGBoost gave the best overall performance.
 
 Clone the repository:
 
-git clone https://github.com/Ananyaa1910/fake-job-detector.git
+git clone https://github.com/Ananyaa1910/Fake-Job-Posting-Detector.git
 
 Install dependencies:
 
@@ -62,7 +62,7 @@ streamlit run app.py
 
 ## Project Structure
 
-fake-job-detector/
+fake-job-posting-detector/
 ├── app.py
 ├── requirements.txt
 ├── fake_job_artifacts.pkl
