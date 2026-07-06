@@ -58,7 +58,7 @@ pip install -r requirements.txt
 
 Run the Streamlit application:
 
-streamlit run app.py
+https://fake-job-posting-detector-01.streamlit.app/
 
 ## Project Structure
 
